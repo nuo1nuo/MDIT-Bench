@@ -9,4 +9,4 @@
 MDIT-Bench is a benchmark for evaluating the sensitivity of models to dual-implicit toxicity, with 317,638 questions covering 12 categories, 23 subcategories, and 780 topics. MDIT-Bench includes three difficulty levels, and we propose a metric to measure the toxicity gap exhibited by the model across them. Please check our [paper]() for more details.
 
 ## News
-**🎉 `2025/05/15`:** MDIT-Bench is accepted by the ACL 2025 Findings.
+**🎉 `2025/05/15`:** MDIT-Bench is accepted by the Findings of ACL 2025
